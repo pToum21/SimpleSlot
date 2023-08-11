@@ -1,2 +1,0 @@
-# SimpleSlot
-Simple Slot
